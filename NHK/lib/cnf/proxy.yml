@@ -1,0 +1,6 @@
+## proxy host configuration
+
+hst: gw03 #160.240.128.92
+prt: 10080
+usr: syagi
+pwd: Caca1711

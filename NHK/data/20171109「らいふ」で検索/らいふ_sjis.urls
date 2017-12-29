@@ -1,0 +1,614 @@
+#http://www.nhk.or.jp/
+#http://www.nhk.or.jp/css/koe/pdf/20170522-20170528.pdf
+#http://www.nhk.or.jp/hanamichi/ref/p2013/131111_dl_1.pdf
+#http://www.nhk.or.jp/keiei-iinkai/giji/shiryou/1292_katarukai01.pdf
+#http://www.nhk.or.jp/keiei-iinkai/hearing/houkoku/h29_03.html
+ http://www.nhk.or.jp/life/	#no article
+ http://www.nhk.or.jp/life/illust.html	#no article
+ http://www.nhk.or.jp/life/magazine/0616.html    #no article
+#http://www.nhk.or.jp/life/magazine/0814.html
+ http://www.nhk.or.jp/life/magazine/1007.html
+ http://www.nhk.or.jp/lifestyle/
+ http://www.nhk.or.jp/lifestyle/article/detail/00001.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00002.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00003.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00004.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00005.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00010.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00011.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00012.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00013.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00014.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00015.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00016.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00017.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00024.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00027.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00030.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00032.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00033.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00035.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00036.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00037.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00038.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00039.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00041.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00043.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00044.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00045.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00046.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00049.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00050.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00051.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00052.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00053.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00054.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00055.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00056.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00057.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00058.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00060.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00062.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00064.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00065.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00066.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00067.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00071.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00072.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00073.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00074.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00075.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00076.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00078.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00079.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00080.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00081.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00092.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00094.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00095.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00096.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00097.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00098.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00099.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00100.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00101.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00102.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00103.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00104.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00105.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00106.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00111.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00113.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00114.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00115.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00116.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00117.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00118.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00119.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00120.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00121.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00142.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00145.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00146.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00147.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00148.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00149.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00150.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00151.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00152.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00154.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00155.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00156.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00157.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00158.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00159.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00160.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00161.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00162.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00163.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00164.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00165.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00166.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00167.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00168.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00169.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00170.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00171.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00172.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00173.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00174.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00175.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00176.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00179.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00180.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00181.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00183.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00184.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00186.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00187.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00189.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00198.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00199.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00200.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00207.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00219.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00220.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00221.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00229.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00230.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00231.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00232.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00233.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00251.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00252.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00261.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00269.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00270.html
+#http://www.nhk.or.jp/lifestyle/article/detail/00271.html
+#http://www.nhk.or.jp/lifestyle/article/detail/10001.html
+#http://www.nhk.or.jp/lifestyle/article/detail/10002.html
+#http://www.nhk.or.jp/lifestyle/article/detail/10019.html
+#http://www.nhk.or.jp/lifestyle/article/detail/10033.html
+ http://www.nhk.or.jp/lifestyle/article/detail/10034.html
+ http://www.nhk.or.jp/lifestyle/cooking/index.html
+ http://www.nhk.or.jp/lifestyle/enquete/cooking.html
+ http://www.nhk.or.jp/lifestyle/enquete/detail/00001.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00002.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00003.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00004.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00005.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00006.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00007.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00008.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00009.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00010.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00011.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00012.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00013.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00014.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00015.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00016.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00017.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00018.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00019.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00020.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00021.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00022.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00023.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00024.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00025.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00026.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00027.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00028.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00029.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00030.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00031.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00032.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00033.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00034.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00035.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00036.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00037.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00038.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00039.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00040.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00041.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00042.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00043.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00044.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00045.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00046.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00047.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00048.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00049.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00050.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00051.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00052.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00053.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00054.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00055.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00056.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00057.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00058.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00059.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00060.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00061.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00062.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00063.html
+#http://www.nhk.or.jp/lifestyle/enquete/detail/00064.html
+ http://www.nhk.or.jp/lifestyle/enquete/detail/00065.html
+ http://www.nhk.or.jp/lifestyle/enquete/fashion.html
+ http://www.nhk.or.jp/lifestyle/enquete/garden.html
+ http://www.nhk.or.jp/lifestyle/enquete/health.html
+ http://www.nhk.or.jp/lifestyle/enquete/home.html
+ http://www.nhk.or.jp/lifestyle/enquete/index.html
+ http://www.nhk.or.jp/lifestyle/enquete/other.html
+ http://www.nhk.or.jp/lifestyle/fashion/index.html
+ http://www.nhk.or.jp/lifestyle/garden/index.html
+ http://www.nhk.or.jp/lifestyle/health/index.html
+ http://www.nhk.or.jp/lifestyle/home/index.html
+ http://www.nhk.or.jp/lifestyle/other/index.html
+ http://www.nhk.or.jp/lifestyle/post/cooking.html
+ http://www.nhk.or.jp/lifestyle/post/detail/00001.html
+#http://www.nhk.or.jp/lifestyle/post/detail/00002.html
+#http://www.nhk.or.jp/lifestyle/post/detail/00003.html
+#http://www.nhk.or.jp/lifestyle/post/detail/00004.html
+#http://www.nhk.or.jp/lifestyle/post/detail/00005.html
+#http://www.nhk.or.jp/lifestyle/post/detail/00006.html
+#http://www.nhk.or.jp/lifestyle/post/detail/00007.html
+ http://www.nhk.or.jp/lifestyle/post/detail/00008.html
+ http://www.nhk.or.jp/lifestyle/post/fashion.html
+ http://www.nhk.or.jp/lifestyle/post/garden.html
+ http://www.nhk.or.jp/lifestyle/post/health.html
+ http://www.nhk.or.jp/lifestyle/post/home.html
+ http://www.nhk.or.jp/lifestyle/post/index.html
+ http://www.nhk.or.jp/lifestyle/post/other.html
+ http://www.nhk.or.jp/lifestyle/search/index.html
+ http://www.nhk.or.jp/lifestyle/sp/
+ http://www.nhk.or.jp/lifestyle/sp/article/detail/00010.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00011.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00012.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00013.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00014.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00016.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00017.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00024.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00030.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00035.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00038.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00039.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00041.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00044.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00045.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00049.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00050.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00051.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00052.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00053.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00054.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00055.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00056.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00057.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00060.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00066.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00067.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00071.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00074.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00075.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00080.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00081.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00092.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00094.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00098.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00099.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00104.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00111.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00113.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00118.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00119.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00120.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00121.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00142.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00145.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00146.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00147.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00148.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00149.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00150.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00151.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00152.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00155.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00156.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00162.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00168.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00169.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00170.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00171.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00173.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00174.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00175.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00176.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00184.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00186.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00187.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00189.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00198.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00207.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00219.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00220.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00221.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00229.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00230.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00231.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00232.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00233.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00251.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00252.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00261.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00269.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00270.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/00271.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/10001.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/10002.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/10019.html
+#http://www.nhk.or.jp/lifestyle/sp/article/detail/10033.html
+ http://www.nhk.or.jp/lifestyle/sp/article/detail/10034.html
+ http://www.nhk.or.jp/lifestyle/sp/cooking/index.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/cooking.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00001.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00002.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00003.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00004.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00005.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00006.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00007.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00008.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00009.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00010.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00011.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00012.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00013.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00014.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00015.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00016.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00017.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00018.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00019.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00020.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00021.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00022.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00023.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00024.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00025.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00026.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00027.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00028.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00029.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00030.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00031.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00032.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00033.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00034.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00035.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00036.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00037.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00038.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00039.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00040.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00041.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00042.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00043.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00044.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00045.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00046.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00047.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00048.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00049.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00050.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00051.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00052.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00053.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00054.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00055.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00056.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00057.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00058.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00059.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00060.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00061.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00062.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00063.html
+#http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00064.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/detail/00065.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/fashion.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/garden.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/health.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/home.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/index.html
+ http://www.nhk.or.jp/lifestyle/sp/enquete/other.html
+ http://www.nhk.or.jp/lifestyle/sp/fashion/index.html
+ http://www.nhk.or.jp/lifestyle/sp/garden/index.html
+ http://www.nhk.or.jp/lifestyle/sp/health/index.html
+ http://www.nhk.or.jp/lifestyle/sp/home/index.html
+ http://www.nhk.or.jp/lifestyle/sp/other/index.html
+ http://www.nhk.or.jp/lifestyle/sp/post/cooking.html
+ http://www.nhk.or.jp/lifestyle/sp/post/detail/00001.html
+#http://www.nhk.or.jp/lifestyle/sp/post/detail/00002.html
+#http://www.nhk.or.jp/lifestyle/sp/post/detail/00003.html
+#http://www.nhk.or.jp/lifestyle/sp/post/detail/00004.html
+#http://www.nhk.or.jp/lifestyle/sp/post/detail/00005.html
+#http://www.nhk.or.jp/lifestyle/sp/post/detail/00006.html
+#http://www.nhk.or.jp/lifestyle/sp/post/detail/00007.html
+ http://www.nhk.or.jp/lifestyle/sp/post/detail/00008.html
+ http://www.nhk.or.jp/lifestyle/sp/post/fashion.html
+ http://www.nhk.or.jp/lifestyle/sp/post/garden.html
+ http://www.nhk.or.jp/lifestyle/sp/post/health.html
+ http://www.nhk.or.jp/lifestyle/sp/post/home.html
+ http://www.nhk.or.jp/lifestyle/sp/post/index.html
+ http://www.nhk.or.jp/lifestyle/sp/post/other.html
+ http://www.nhk.or.jp/lifestyle/sp/search/index.html
+ http://www.nhk.or.jp/lifestyle/sp/video/detail/00102.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00200.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00201.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00202.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00203.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00204.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00205.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00206.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00207.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00208.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00338.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00339.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00401.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00481.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00536.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00612.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00613.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00614.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00615.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00640.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00641.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00642.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00643.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00644.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00645.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00647.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00648.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00649.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00650.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00651.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00652.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00653.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00654.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00655.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00679.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00681.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00682.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00684.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00685.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00686.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00687.html
+#http://www.nhk.or.jp/lifestyle/sp/video/detail/00691.html
+ http://www.nhk.or.jp/lifestyle/sp/video/detail/00692.html
+ http://www.nhk.or.jp/lifestyle/video/detail/00007.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00008.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00009.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00010.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00011.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00012.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00013.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00014.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00015.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00016.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00018.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00019.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00023.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00024.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00025.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00027.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00028.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00044.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00045.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00046.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00047.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00048.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00049.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00050.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00051.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00052.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00053.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00054.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00055.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00056.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00057.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00058.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00059.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00078.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00079.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00080.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00081.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00082.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00102.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00172.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00173.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00174.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00175.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00176.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00177.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00178.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00179.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00180.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00181.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00200.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00201.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00202.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00203.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00204.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00205.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00206.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00207.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00208.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00210.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00211.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00212.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00213.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00214.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00215.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00233.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00248.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00252.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00329.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00338.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00339.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00354.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00371.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00372.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00373.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00374.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00375.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00376.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00377.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00379.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00381.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00401.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00410.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00411.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00412.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00413.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00415.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00416.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00417.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00418.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00419.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00481.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00536.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00537.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00612.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00613.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00614.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00615.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00640.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00641.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00642.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00643.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00644.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00645.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00647.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00648.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00649.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00650.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00651.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00652.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00653.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00654.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00655.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00679.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00681.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00682.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00684.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00685.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00686.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00687.html
+#http://www.nhk.or.jp/lifestyle/video/detail/00691.html
+ http://www.nhk.or.jp/lifestyle/video/detail/00692.html
+#http://www.nhk.or.jp/nagoya/gojiradi/archives/2016/0726/index.html
+#http://www.nhk.or.jp/onegai/detail/93615.html
+#http://www.nhk.or.jp/onegai/sorry/index2.html
+#http://www.nhk.or.jp/osaka/program/eetoko/past/0720.html
+#http://www.nhk.or.jp/radiosp/gogolife2/
+#http://www.nhk.or.jp/sp/
+#http://www1.nhk.or.jp/asaichi/archive/170925/1.html
+#http://www1.nhk.or.jp/asaichi/archive/171003/3.html
+#http://www2.nhk.or.jp/goods/pc/cgi/list_p.cgi?p=2273&s=1
+#http://www2.nhk.or.jp/goods/pc/cgi/list_t.cgi?y=4
+#http://www2.nhk.or.jp/goods/pc/cgi/list_t.cgi?y=4&s=17
+#http://www2.nhk.or.jp/goods/sp/cgi/list_p.cgi?p=2273&s=1
+#http://www2.nhk.or.jp/goods/sp/cgi/list_t.cgi?y=4&s=&pg=2
+#http://www2.nhk.or.jp/goods/sp/cgi/list_t.cgi?y=4&s=17&pg=2
+#http://www4.nhk.or.jp/gutto/
+#http://www4.nhk.or.jp/gutto/191/
+#http://www4.nhk.or.jp/gutto/26/
+#http://www4.nhk.or.jp/gutto/5/
+#http://www4.nhk.or.jp/kodomo-pj/
+#http://www6.nhk.or.jp/fukayomi/goiken/commentlist.html/index.jsp?i=30456&l=111
+#http://www6.nhk.or.jp/nhkpr/post/original.html?i=09210

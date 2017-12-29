@@ -1,0 +1,28 @@
+From: Satoshi WATANABE [mailto:watanabe.s-go@nhk.or.jp]
+Sent: Friday, November 17, 2017 2:36 PM
+To: Shigeki Suzuki
+Cc: uemoto.t-io@nhk.or.jp; 栗田 育典; Junichiro Suzuki; 光高 大介
+Subject: Re: NHKオンラインWebサイトへのメタデータ付与試行に関する実施内容
+
+株式会社レトリバ 鈴木繁樹様
+
+ＮＨＫ放送技術局 メディア技術センター クロスメディア部 渡辺です。
+本日は、お打合せありがとうございました。
+
+記事の一覧情報について、下記にお伝えします。
+# らいふ
+http://www.nhk.or.jp/lifestyle/search/search_data.json
+
+# 健康ch
+単純にインクリメントとなっており、下記4から始まって、
+http://www.nhk.or.jp/kenko/atc_4.html
+(途中歯抜けもあると思いますが)今日現在の最新は下記528までありました。
+http://www.nhk.or.jp/kenko/atc_528.html
+
+# ニュース
+公式RSSは下記ページの通りですが、全てではなく最新数記事です。
+https://www3.nhk.or.jp/toppage/rss/index.html
+ほかに全記事取得の方法がないか、調べますが、
+取り急ぎ、今のところはここまで。
+
+以上、よろしくお願いします。

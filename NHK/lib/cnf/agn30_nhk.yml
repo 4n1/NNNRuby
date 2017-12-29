@@ -1,0 +1,87 @@
+## Crawing NHK
+# --------------------------------------
+# 共通項目
+# --------------------------------------
+#acd:  30
+#usr:
+#pwd:
+ctl: Ctl30TrnMain
+agn: Agn30Nhk
+#fms:
+delimiter : "\t"
+
+# --------------------------------------
+# 処理定義:クローリング:トップページ
+# --------------------------------------
+get_top_page          :
+  req_sec               : 3                                 # web request をする間隔
+  req_url               : 'http://www.nhk.or.jp/'
+
+# --------------------------------------
+# 処理定義:クローリング:検索結果ページ
+# --------------------------------------
+main_crawling_search  :
+  is_exec               : true                              # 処理の実行有無 ( true or false )
+  name                  : 'クローリング処理(検索結果一覧)'
+  req_sec               : 3                                 # web request をする間隔
+  req_url               : 'http://www2.nhk.or.jp/cgisearch/wbs/query.cgi'
+  req_qry               :
+    st                    : 0                               # page 番号
+    col                   : site
+    ct                    :
+    ql                    : 1
+    charset               : utf-8
+    kyoku                 :
+    qt                    :                                 # 検索文字列
+  req_search_words      :
+#    - 'NHK NEWS WEB'                                   # 70件
+#    - 'らいふ 体験'                                          # 19件
+#    - 'らいふ'                                               # 約600件
+    - '健康ch'
+#    - 'ニュース'
+
+# --------------------------------------
+# 処理定義:クローリング:個別ページ
+# --------------------------------------
+main_crawling_urls    :
+  is_exec               : false                              # 処理の実行有無 ( true or false )
+  name                  : 'クローリング処理(個別ページ)'
+  req_sec               : 2                                 # web request をする間隔
+  article_base          : 'http://www2.nhk.or.jp/news/nsearch/query.cgi?col=news&charset=utf-8&qi=3&qt='
+#  fms_urls              : 'File.dirname(__FILE__)}/../../data/20171201顧客提示URL/らいふ.json'
+#  fms_urls              : 'File.dirname(__FILE__)}/../../data/20171109「らいふ」で検索/らいふ_utf8.urls'
+  fms_urls              : 'File.dirname(__FILE__)}/../../data/News/News.urls'
+
+# --------------------------------------
+# 処理定義:項目抽出
+# --------------------------------------
+main_select_items     :
+  is_exec               : false                              # 処理の実行有無 ( true or false )
+  name                  : '項目抽出処理'
+  scrap_all             : 'File.dirname(__FILE__)}/../../data/20171205_070913_F212個別ページの文言_タグ別クラス別_抽出前.scrap'
+
+# --------------------------------------
+# File Management System
+# --------------------------------------
+fms                   :
+  search                : 'File.dirname(__FILE__)}/../../data/yyyymmdd_hhmmss_F111検索結果一覧の文言.search'
+  urls                  : 'File.dirname(__FILE__)}/../../data/yyyymmdd_hhmmss_F112検索結果一覧のURL.urls'
+  hashes                : 'File.dirname(__FILE__)}/../../data/yyyymmdd_hhmmss_F211個別ページの文言_タグ別クラス別_HASH.scrap'
+  scrap_all             : 'File.dirname(__FILE__)}/../../data/yyyymmdd_hhmmss_F212個別ページの文言_タグ別クラス別_抽出前.scrap'
+  scrap_select          : 'File.dirname(__FILE__)}/../../data/yyyymmdd_hhmmss_F221個別ページの文言_タグ別クラス別_抽出後.scrap'
+  scrap_columns         :
+    - url
+    - title
+    - meta_keywords
+    - meta_description
+    - all_text
+#    - tag_html
+#    - tag_head
+#    - tag_title
+#    - tag_body
+#    - tag_header
+#    - class_header
+#    - tag_main
+#    - class_main
+    - tag_article
+    - class_article
