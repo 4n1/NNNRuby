@@ -579,3 +579,378 @@ I, [2018-01-09T17:07:11.023002 #10088]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/c
 I, [2018-01-09T17:07:12.085002 #10088]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x00000003c90d08>: WEB RES : 200_OK
 I, [2018-01-09T17:07:12.113002 #10088]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/trn/agn30_nhk.rb,525,main_crawling_search(),#<Agn30Nhk:0x00000003e3bd88>: ========== END : main_crawling_search
 I, [2018-01-09T17:07:12.114502 #10088]  INFO -- main.rb,64,<main>(),main: ========== END : 
+I, [2018-01-09T17:42:42.443754 #10164]  INFO -- main.rb,34,<main>(),main: ========== STR : 
+I, [2018-01-09T17:42:42.446755 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/trn/agn30_nhk.rb,474,main_crawling_search(),#<Agn30Nhk:0x0000000395c0b0>: ========== STR : main_crawling_search
+I, [2018-01-09T17:42:42.447255 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 3.0 SEC.
+I, [2018-01-09T17:42:42.460258 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www.nhk.or.jp/
+I, [2018-01-09T17:42:42.511768 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:42:42.518269 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 0.07 SEC.
+I, [2018-01-09T17:42:42.518269 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 2.93 SEC. ... START
+I, [2018-01-09T17:42:45.455857 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:42:46.531072 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:42:46.550576 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.1 SEC.
+I, [2018-01-09T17:42:46.550576 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.9 SEC. ... START
+I, [2018-01-09T17:42:48.458457 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:42:49.471660 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:42:49.491664 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.04 SEC.
+I, [2018-01-09T17:42:49.492664 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.96 SEC. ... START
+I, [2018-01-09T17:42:51.463558 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:42:52.517269 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:42:52.534772 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:42:52.535772 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:42:54.460657 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:42:55.514368 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:42:55.530871 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:42:55.531371 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:42:57.462258 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:42:58.520469 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:42:58.536972 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:42:58.537973 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:43:00.468859 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:01.532571 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:01.549075 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:01.549075 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:43:03.467958 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:04.516168 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:04.538673 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:43:04.539173 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:43:06.470559 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:07.566278 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:07.581281 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:43:07.581781 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:43:09.473659 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:11.095484 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:11.120489 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.65 SEC.
+I, [2018-01-09T17:43:11.120489 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.35 SEC. ... START
+I, [2018-01-09T17:43:12.474759 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:13.542473 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:13.561977 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:13.562977 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:43:15.477360 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:16.550574 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:16.567078 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:16.568578 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:43:18.481461 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:19.535671 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:19.551675 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:43:19.553175 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:43:21.485061 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:22.527770 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:22.543773 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:43:22.545273 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:43:24.488662 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:25.562376 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:25.578880 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:25.579880 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:43:27.491762 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:28.534471 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:28.549974 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:43:28.550974 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:43:30.495363 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:31.569078 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:31.585081 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:31.585581 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:43:33.497463 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:34.583180 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:34.600184 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.1 SEC.
+I, [2018-01-09T17:43:34.601684 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.9 SEC. ... START
+I, [2018-01-09T17:43:36.507065 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:37.592782 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:37.609285 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:43:37.610286 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:43:39.506165 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:40.568377 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:40.584880 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:43:40.585881 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:43:42.509765 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:43.595482 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:43.613986 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:43:43.615486 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:43:45.513866 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:46.586080 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:46.602084 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:46.603584 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:43:48.517967 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:49.570677 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:49.586680 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:43:49.588181 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:43:51.521567 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:52.604284 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:52.624788 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:43:52.626288 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:43:54.524668 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:55.567876 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:55.584380 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:43:55.585380 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:43:57.528268 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:43:58.594482 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:43:58.610485 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:43:58.611985 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:44:00.531869 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:01.596082 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:01.612585 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:44:01.614085 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:44:03.535970 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:04.708704 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:04.725708 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.19 SEC.
+I, [2018-01-09T17:44:04.726708 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.81 SEC. ... START
+I, [2018-01-09T17:44:06.539070 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:08.211905 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:08.229408 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.69 SEC.
+I, [2018-01-09T17:44:08.230408 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.31 SEC. ... START
+I, [2018-01-09T17:44:09.542671 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:11.106483 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:11.122987 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.58 SEC.
+I, [2018-01-09T17:44:11.124487 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.42 SEC. ... START
+I, [2018-01-09T17:44:12.546771 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:14.112585 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:14.131088 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.59 SEC.
+I, [2018-01-09T17:44:14.132589 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.41 SEC. ... START
+I, [2018-01-09T17:44:15.549872 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:16.603083 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:16.620086 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:44:16.621086 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:44:18.553473 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:19.596681 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:19.613184 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:44:19.614685 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:44:21.556573 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:22.619786 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:22.636789 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:44:22.638289 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:44:24.561174 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:25.633888 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:25.650892 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:44:25.652392 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:44:27.564774 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:28.627487 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:28.643990 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:44:28.644990 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:44:30.568375 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:31.641090 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:31.657593 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:44:31.659093 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:44:33.571476 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:34.614684 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:34.633688 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:44:34.634688 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:44:36.575576 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:37.614284 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:37.635788 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:44:37.636788 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:44:39.579677 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:40.616384 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:40.636388 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:44:40.638389 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:44:42.582777 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:43.624486 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:43.648991 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:44:43.650491 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:44:45.586878 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:46.634588 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:46.653591 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:44:46.655092 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:44:48.590479 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:49.673195 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:49.693199 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:44:49.694700 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:44:51.599580 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:52.651791 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:52.670295 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:44:52.671295 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:44:54.600180 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:55.644889 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:55.663393 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:44:55.664393 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:44:57.602781 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:44:58.677996 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:44:58.704001 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.1 SEC.
+I, [2018-01-09T17:44:58.705501 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.9 SEC. ... START
+I, [2018-01-09T17:45:00.605881 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:01.868634 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:01.885637 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.28 SEC.
+I, [2018-01-09T17:45:01.886637 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.72 SEC. ... START
+I, [2018-01-09T17:45:03.608982 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:04.651190 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:04.668194 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.06 SEC.
+I, [2018-01-09T17:45:04.669194 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.94 SEC. ... START
+I, [2018-01-09T17:45:06.611582 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:07.684797 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:07.702300 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:45:07.703801 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:45:09.616183 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:10.718403 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:10.739908 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.13 SEC.
+I, [2018-01-09T17:45:10.740408 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.87 SEC. ... START
+I, [2018-01-09T17:45:12.618783 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:13.680496 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:13.705001 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:45:13.707501 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:45:15.626385 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:16.689097 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:16.709101 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:45:16.710102 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:45:18.629485 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:19.702700 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:19.720203 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:45:19.721204 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:45:21.633586 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:22.696299 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:22.713802 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:45:22.714802 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:45:24.638187 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:25.720903 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:25.738907 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:45:25.739907 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:45:27.639787 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:28.703000 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:28.721503 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:45:28.722504 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:45:30.643388 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:31.826124 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:31.846628 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.21 SEC.
+I, [2018-01-09T17:45:31.848629 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.79 SEC. ... START
+I, [2018-01-09T17:45:33.648989 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:34.730205 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:34.749709 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:45:34.750709 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:45:36.652589 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:37.712301 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:37.731305 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:45:37.732305 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:45:39.657190 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:40.750909 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:40.778914 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.13 SEC.
+I, [2018-01-09T17:45:40.780415 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.87 SEC. ... START
+I, [2018-01-09T17:45:42.658790 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:43.721003 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:43.738506 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:45:43.739506 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:45:45.661891 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:46.725103 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:46.743607 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:45:46.744607 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:45:48.664991 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:49.728204 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:49.746708 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:45:49.747208 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:45:51.668092 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:52.761810 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:52.779814 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:45:52.780814 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:45:54.671192 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:55.763411 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:55.780414 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:45:55.781414 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:45:57.674293 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:45:58.777513 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:45:58.795017 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:45:58.796017 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:46:00.677893 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:01.840626 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:01.860130 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.19 SEC.
+I, [2018-01-09T17:46:01.861630 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.81 SEC. ... START
+I, [2018-01-09T17:46:03.681494 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:04.764711 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:04.784214 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:46:04.785215 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:46:06.686095 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:07.778313 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:07.795817 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:46:07.796817 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:46:09.688695 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:10.751408 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:10.768911 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:46:10.770411 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:46:12.699297 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:13.793516 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:13.812020 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:46:13.813020 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:46:15.695896 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:16.779113 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:16.797117 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:46:16.799117 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:46:18.698997 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:19.751207 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:19.770211 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:46:19.771711 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:46:21.702097 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:22.854828 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:22.874832 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.18 SEC.
+I, [2018-01-09T17:46:22.875832 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.82 SEC. ... START
+I, [2018-01-09T17:46:24.705698 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:25.811919 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:25.830423 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.13 SEC.
+I, [2018-01-09T17:46:25.831423 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.87 SEC. ... START
+I, [2018-01-09T17:46:27.708298 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:28.792015 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:28.811019 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.11 SEC.
+I, [2018-01-09T17:46:28.815520 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.89 SEC. ... START
+I, [2018-01-09T17:46:30.714900 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:31.807618 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:31.827622 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:46:31.829122 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:46:33.718000 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:34.832223 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:34.850226 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.14 SEC.
+I, [2018-01-09T17:46:34.851227 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.86 SEC. ... START
+I, [2018-01-09T17:46:36.723601 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:37.790814 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:37.810318 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:46:37.812319 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:46:39.730202 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:40.782913 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:40.802417 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:46:40.804417 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:46:42.730302 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:43.807017 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:43.826021 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.1 SEC.
+I, [2018-01-09T17:46:43.827021 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.9 SEC. ... START
+I, [2018-01-09T17:46:45.734403 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:46.876631 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:46.895135 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.16 SEC.
+I, [2018-01-09T17:46:46.896135 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.84 SEC. ... START
+I, [2018-01-09T17:46:48.737503 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:49.790214 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:49.809218 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:46:49.810218 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:46:51.740604 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:52.847325 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:52.868829 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.13 SEC.
+I, [2018-01-09T17:46:52.870330 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.87 SEC. ... START
+I, [2018-01-09T17:46:54.745205 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:55.801416 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:55.826921 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.09 SEC.
+I, [2018-01-09T17:46:55.831922 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.91 SEC. ... START
+I, [2018-01-09T17:46:57.754306 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:46:58.798015 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:46:58.819519 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.07 SEC.
+I, [2018-01-09T17:46:58.821520 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.93 SEC. ... START
+I, [2018-01-09T17:47:00.755406 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:01.808117 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:01.836123 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.08 SEC.
+I, [2018-01-09T17:47:01.836623 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.92 SEC. ... START
+I, [2018-01-09T17:47:03.762008 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:04.856727 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:04.882232 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:47:04.884732 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:47:06.767609 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:07.860327 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:07.881331 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:47:07.882332 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:47:09.771209 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:10.893934 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:10.913938 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.15 SEC.
+I, [2018-01-09T17:47:10.914938 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.85 SEC. ... START
+I, [2018-01-09T17:47:12.773310 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:13.866528 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:13.887532 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:47:13.888533 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:47:15.776410 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:16.860627 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:16.888632 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,531,waiting(),#<Web:0x0000000395cfb0>: PROCESS_TIME : 1.12 SEC.
+I, [2018-01-09T17:47:16.891133 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,533,waiting(),#<Web:0x0000000395cfb0>: WAITING_TIME : 1.88 SEC. ... START
+I, [2018-01-09T17:47:18.781511 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,601,request(),#<Web:0x0000000395cfb0>: WEB REQ : www2.nhk.or.jp/cgisearch/wbs/query.cgi
+I, [2018-01-09T17:47:19.820719 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/cmn/web.rb,628,request(),#<Web:0x0000000395cfb0>: WEB RES : 200_OK
+I, [2018-01-09T17:47:19.865728 #10164]  INFO -- C:/Work/AI/NHK/NNNRuby/NHK/lib/trn/agn30_nhk.rb,522,main_crawling_search(),#<Agn30Nhk:0x0000000395c0b0>: ========== END : main_crawling_search
+I, [2018-01-09T17:47:19.866728 #10164]  INFO -- main.rb,64,<main>(),main: ========== END : 
