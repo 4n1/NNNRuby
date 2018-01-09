@@ -489,7 +489,7 @@ class Agn30Nhk
 
     # 1.1.検索結果一覧から、サマリーと URL をファイルに出力
     search_words.each do |word|
-
+      
       loop do
         qry['qt'] = word                                        # 検索キーワード
         qry['st'] +=  1                                         # 検索結果のページ番号
@@ -497,7 +497,7 @@ class Agn30Nhk
         res = @web.waiting(interval_sec).get(url, qry, hdr)     # web から html を取得
         hsh = get_search_result_from_html( res  , qry['qt'] )   # 必要な部分を hash に保存
         arr = hashes_to_lines(  hsh , @DELIMITER  )             # hash をファイル出力形式に変換
-
+        
         File.open(@fms_search,"a") {|f|
           f.puts( f.size == 0 ? arr : arr.drop(1) )             # 初回のみ項目名を付けてファイル出力
         }
